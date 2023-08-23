@@ -187,7 +187,7 @@ text-decoration: none;
 }
 
 .phrase {
-    background-image: url(./ressources/images/team.jpg.png);
+    background-image: url(ressources/images/team.jpg.png);
     height: 240px;
     display: flex;
     justify-content: center;
